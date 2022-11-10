@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# ![](https://github.com/Mukhammadamin5/Mukhammadamin5/blob/main/giphy.gif)
+
 <!--
 **Mukhammadamin5/Mukhammadamin5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
